@@ -1,0 +1,46 @@
+.bars-container{
+    position: absolute;
+    height: 700px;
+    margin-top: 50px;
+}
+
+.bars{
+    width: 3.5px;
+    background-color: blue;
+    display: inline-block;
+    margin: 0 2px;
+}
+
+h1{
+    text-align: center;
+    margin: 0px;
+}
+
+.navbar{
+    margin-left: 25%;
+    display: inline-block;
+    margin-right: 100px;
+    margin-top: 10px;
+}
+
+.button{
+    background-color: rgb(234 88 12);
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 15px;
+    cursor: pointer;
+    color: white;
+    padding: 8px 12px;
+    margin: 5px;
+}
+.button:hover{
+    background-color: rgb(194 65 12);
+}
+
+.speed-div{
+    margin-top: 0px;
+    display: inline-block;
+}
+h4{
+    text-align: center;
+}
